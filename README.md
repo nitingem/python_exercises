@@ -1,6 +1,6 @@
 # Python Exercises
  
-A couple of small Python projects built using the `graphics.py` library.
+A couple of small Python projects built using the `graphics.py` library during "CSCI 220 - Computer Programming 1"
  
 ## Projects
  
